@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/action-creator-thunk-http/static/css/main.98c595f5.css",
+    "main.js": "/action-creator-thunk-http/static/js/main.84baa5b1.js",
+    "index.html": "/action-creator-thunk-http/index.html",
+    "main.98c595f5.css.map": "/action-creator-thunk-http/static/css/main.98c595f5.css.map",
+    "main.84baa5b1.js.map": "/action-creator-thunk-http/static/js/main.84baa5b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c595f5.css",
+    "static/js/main.84baa5b1.js"
+  ]
+}
